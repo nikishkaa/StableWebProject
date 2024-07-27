@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: hsl(218deg 50% 91%);
+    height: 100vh;
+}
+
+.main{
+    background-color: aliceblue;
+}
